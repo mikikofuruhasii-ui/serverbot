@@ -1,11 +1,11 @@
 bot:
   token: "YOUR_BOT_TOKEN_HERE" # Render等の場合は環境変数 DISCORD_TOKEN を優先します
 minecraft:
-  ip: "127.0.0.1"
+  ip: "cynthia-kz.tun.ply.gg"
   port: 25565
   server_dir: "C:/path/to/peparserver"
   start_command: "start.cmd"
   log_file_path: "logs/latest.log"
 console:
-  enable: false              # trueにするとDiscordにログを送信します
-  channel_id: 123456789012345678 # ログを流すDiscordのチャンネルID
+  enable: true              # trueにするとDiscordにログを送信します
+  channel_id:1545938932045189120 # ログを流すDiscordのチャンネルID
