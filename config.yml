@@ -1,0 +1,8 @@
+# config.yml
+token: "MTU0NTkzNzY3NDk0NTQyOTU0NA.G_w4K8.SdX0CuUg2l3jyaBoUo6y3LBTEDfq5jkkfhkuek" # ここにDiscord Botのトークンを入れる
+minecraft:
+  ip: "cynthia-kz.tun.ply.gg"
+  port: 25565
+  server_dir: "C:/path/to/peparserver"  # ペーパーサーバーのフォルダパス
+  start_command: "start.cmd"
+  log_file_path: "logs/latest.log"
